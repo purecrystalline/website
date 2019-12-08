@@ -1,0 +1,16 @@
+############################ banner ##########################
+banner:
+  enable: true
+  # title: "Pure Crystalline"
+  content:
+    "Kristallen, Kristallen schedels & juwelen"
+    # image : "images/banner.png"
+  # button
+  button:
+    enable: false
+    label: "All Products"
+    link: "products"
+  # demo video
+  video:
+    enable: false
+    videoURL: ""
