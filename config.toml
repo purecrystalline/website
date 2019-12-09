@@ -99,3 +99,7 @@ copyright = "| @2019 Pure Crystalline |"
   # Contact Form
   [params.contact]
   formAction = "https://formspree.io/xpzwklwv"
+
+  [[params.social]]
+  icon = "ti-facebook"
+  link = "https://www.facebook.com/hilde.joosen.7"
