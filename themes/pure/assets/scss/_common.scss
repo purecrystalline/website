@@ -8,6 +8,11 @@ body {
   color: $white;
 }
 
+.img-fluid {
+  max-width:50%;
+  height:auto;
+} 
+
 /* preloader */
 
 .preloader {
